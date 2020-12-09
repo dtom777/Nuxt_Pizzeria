@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/information/gdonxh0u4", (function(a,b){return {data:[{item:{id:"gdonxh0u4",createdAt:a,updatedAt:b,publishedAt:a,revisedAt:b,title:"クリスマスケーキ",date:"2020-12-24T15:00:00.000Z",body:"\u003Cp\u003Eクリスマスケーキ\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2020-12-08T14:32:01.717Z","2020-12-08T14:32:05.843Z")));

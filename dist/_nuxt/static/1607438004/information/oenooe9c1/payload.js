@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/information/oenooe9c1", (function(a){return {data:[{item:{id:"oenooe9c1",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,title:"【営業時間延長】もうすぐクリスマス！",date:"2020-12-19T15:00:00.000Z",body:"\u003Cp\u003Eクリスマスは午前３時まで営業しています。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2020-12-08T12:01:40.655Z")));

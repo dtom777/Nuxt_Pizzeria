@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/information/gl4bwm9di", (function(a,b){return {data:[{item:{id:"gl4bwm9di",createdAt:a,updatedAt:b,publishedAt:a,revisedAt:b,title:"pizzeria Napoliがオープンしました！",date:"2020-11-30T15:00:00.000Z",body:"\u003Cp\u003E本日、pizzeria Napoliがオープンしました。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2020-12-05T10:19:58.955Z","2020-12-06T06:29:42.796Z")));

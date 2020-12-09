@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/information/7-u1yalrx", (function(a,b){return {data:[{item:{id:"7-u1yalrx",createdAt:a,updatedAt:b,publishedAt:a,revisedAt:b,title:"12月キャンペーン！",date:"2020-12-02T15:00:00.000Z",body:"\u003Cp\u003E12月はピザが全品10%OFF!\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2020-12-06T03:11:51.056Z","2020-12-06T03:12:15.724Z")));

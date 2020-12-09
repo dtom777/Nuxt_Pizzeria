@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/information/lodv6-m-0", (function(a,b){return {data:[{item:{id:"lodv6-m-0",createdAt:a,updatedAt:b,publishedAt:a,revisedAt:b,title:"休業日のお知らせ",date:"2020-12-01T15:00:00.000Z",body:"\u003Cp\u003E12月2日（水）は休業となります。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2020-12-06T00:16:08.805Z","2020-12-06T00:50:27.882Z")));
