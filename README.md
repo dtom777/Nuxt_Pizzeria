@@ -1,4 +1,4 @@
-# Nuxt_Pizzeria(SSG)
+# Nuxt_Pizzeria(SSG)　Jamstackの練習のため作成
 
 deployed on https://pizzerianapoli.netlify.app/
 
@@ -11,8 +11,6 @@ luxon ^1.25.0
 eslint ^7.10.0
 prettier ^2.1.2  
 microCMS  
-
-## Jamstackの練習で作成
 
 ## Build Setup
 
