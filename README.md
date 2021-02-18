@@ -6,7 +6,8 @@ deployed on https://pizzerianapoli.netlify.app/
 Nuxt.js ^2.14.６  
 Tailwindcss ^3.1.0  
 Ajax  
-firebase ^8.2.1  
+firebase ^8.2.1
+firebase deploy
 luxon ^1.25.0  
 eslint ^7.10.0
 prettier ^2.1.2  
