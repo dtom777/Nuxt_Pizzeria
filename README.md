@@ -11,7 +11,8 @@ firebase deploy
 luxon ^1.25.0  
 eslint ^7.10.0
 prettier ^2.1.2  
-microCMS  
+microCMS   
+Netlify
 
 ## Build Setup
 
